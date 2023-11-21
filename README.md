@@ -1,2 +1,2 @@
-# MS-Calculator-Clone
+Windows Calculator Clone
 This is a clone of windows calculator that i created  using HTML ,CSS  ,JS. This is not that perfect i know and some of the features are not working , Because i'am at my beginning stage so....
