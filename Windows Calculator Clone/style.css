@@ -1,0 +1,78 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: none;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.mainDiv {
+    height: 222px;
+    width: 159px;
+    background-color: rgb(235, 235, 235);
+    border: 0.1px solid black;
+}
+
+.num {
+    height: 23px;
+    width: 38px;
+    border: none;
+    margin: 1px -1px;
+    background-color: rgba(248, 248, 248, 0.938);
+}
+
+.nums {
+    height: 23px;
+    width: 165px;
+    border: none;
+    margin: 1px 2px;
+}
+
+.n {
+    background-color: rgb(255, 255, 255);
+}
+
+.inp {
+    width: 155px;
+    height: 70px;
+    border: none;
+    font-size: 25px;
+    background-color: rgb(235, 235, 235);
+    display: flex;
+}
+
+h1 {
+    font-size: 14px;
+    font-weight: 100;
+    position: relative;
+    left: 25px;
+    top: -10px;
+}
+
+.bars {
+    display: flex;
+    flex-direction: column;
+}
+
+.bar {
+    position: relative;
+    top: 18px;
+    font-size: 32px;
+    margin-top: -39px;
+    width: 0px;
+    font-family: system-ui;
+}
+
+.num:hover {
+    background-color: rgba(0, 0, 0, 0.123);
+    border: 0.1px solid white;
+}
+
+.b:hover {
+    background-color: rgba(0, 153, 255, 0.315);
+    color: white;
+}
